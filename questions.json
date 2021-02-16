@@ -1,0 +1,26 @@
+[
+    {
+        "question": "العلم المختص بدراسة تغيرات المادة وخواصها",
+        "choice1": "الكيمياء الفيزيائية",
+        "choice2": "الكيمياء الحرارية",
+        "choice3": "الكيمياء الكهربية",
+        "choice4": "الكيمياء التحليلية",
+        "answer": 1
+    },
+    {
+        "question": "يقول الفيلسوف برتراند راسل:-. (لا تكن متأكداً جداً من أي شيء.) يعبر ذلك عن أحد مهارات التفكير الفلسفي و هي مهارة",
+        "choice1": "التعميم",
+        "choice2": "التحليل",
+        "choice3": "الشك",
+        "choice4": "النقد",
+        "answer": 3
+    },
+    {
+        "question": "I regret …………….. my lessons. I got really bad marks.",
+        "choice1": "to neglect",
+        "choice2": "neglects",
+        "choice3": "to neglecting",
+        "choice4": "neglecting",
+        "answer": 4
+    }
+]
